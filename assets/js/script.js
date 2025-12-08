@@ -1,3 +1,7 @@
+$(function () {
+    alert("개인 포트폴리오 사이트입니다")
+});
+
 // 햄버거
 let btn = document.querySelector(".hamburger-btn");
 let menu = document.querySelector(".header-nav");
