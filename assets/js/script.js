@@ -1,7 +1,3 @@
-$(function () {
-    alert("이 페이지는 개인 포트폴리오로 제작한 웹사이트입니다. 페이백폰나라 고객님은 실제 사이트를 이용해주세요.")
-});
-
 // 햄버거
 let btn = document.querySelector(".hamburger-btn");
 let menu = document.querySelector(".header-nav");
@@ -108,6 +104,8 @@ var reviewSwiper = new Swiper(".reviewSwiper", {
 
 // 제이쿼리
 $(function () {
+    alert("이 페이지는 개인 포트폴리오로 제작한 웹사이트입니다. 페이백폰나라 고객님은 실제 사이트를 이용해주세요.")
+
     initProductSwipers();
 
     $('.tab-btn').on('click', function () {
