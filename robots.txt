@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.next-t.co.kr/sitemap.xml
+Sitemap: https://symphonious-melomakarona-cbff49.netlify.app/sitemap.xml
